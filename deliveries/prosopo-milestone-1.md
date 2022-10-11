@@ -13,14 +13,14 @@ This Milestone contains the very first version of the Prosopo human verification
 
 | Number | Deliverable | Link | Notes |
 | ------------- | ------------- | ------------- |------------- |
-| 0a. | License |https://github.com/prosopo-io/provider/blob/master/LICENSE https://github.com/prosopo-io/protocol/blob/master/LICENSE https://github.com/prosopo-io/dapp-example/blob/master/LICENSE| The links are to the main license files. The individual source files also have license headers.| 
-| 0b.  | Documentation | https://github.com/prosopo-io/provider/blob/master/README.md https://github.com/prosopo-io/protocol/blob/master/README.md https://github.com/prosopo-io/integration/blob/main/README.md | The README files explain how to use each repository. However, the repos are best used together in the integration repository. | 
-| 0c.  | Testing Guide	 | https://github.com/prosopo-io/provider/blob/master/README.md https://github.com/prosopo-io/protocol/blob/master/README.md https://github.com/prosopo-io/integration/blob/main/README.md | The README files contain details of how to run the tests. We've created a branch in each of our repositories called `milestone1`. We'd appreciate you using these branches when running the code. | 
-| 0d.  | Docker |https://github.com/prosopo-io/provider/blob/master/dev.dockerfile https://github.com/prosopo-io/integration/blob/main/docker-compose.yml| A dockerfile exists for the Provider repo. The various repos are pulled together in the `integration` repository, in which a docker compose file spins up 3 containers  - `Provider`, `Substrate`, and `MongoDB`| 
-| 0e.  | Article |https://github.com/prosopo-io/prosopo-website/blob/master/src/articles/prosopo-web3-foundation-grant.md| Website is not live | 
-| 1.  | Prosopo Contract Development |https://github.com/prosopo-io/protocol/| The repo containing the smart contract | 
-| 2.  | Prosopo Provider Service |https://github.com/prosopo-io/provider| The repo containing the Provider software | 
-| 3.  | External Contract |https://github.com/prosopo-io/dapp-example| An external example contract which demonstrates how to call our contract | 
+| 0a. | License |https://github.com/prosopo/provider/blob/master/LICENSE https://github.com/prosopo/protocol/blob/master/LICENSE https://github.com/prosopo/dapp-example/blob/master/LICENSE| The links are to the main license files. The individual source files also have license headers.| 
+| 0b.  | Documentation | https://github.com/prosopo/provider/blob/master/README.md https://github.com/prosopo/protocol/blob/master/README.md https://github.com/prosopo/integration/blob/main/README.md | The README files explain how to use each repository. However, the repos are best used together in the integration repository. | 
+| 0c.  | Testing Guide	 | https://github.com/prosopo/provider/blob/master/README.md https://github.com/prosopo/protocol/blob/master/README.md https://github.com/prosopo/integration/blob/main/README.md | The README files contain details of how to run the tests. We've created a branch in each of our repositories called `milestone1`. We'd appreciate you using these branches when running the code. | 
+| 0d.  | Docker |https://github.com/prosopo/provider/blob/master/dev.dockerfile https://github.com/prosopo/integration/blob/main/docker-compose.yml| A dockerfile exists for the Provider repo. The various repos are pulled together in the `integration` repository, in which a docker compose file spins up 3 containers  - `Provider`, `Substrate`, and `MongoDB`| 
+| 0e.  | Article |https://github.com/prosopo/prosopo-website/blob/master/src/articles/prosopo-web3-foundation-grant.md| Website is not live | 
+| 1.  | Prosopo Contract Development |https://github.com/prosopo/protocol/| The repo containing the smart contract | 
+| 2.  | Prosopo Provider Service |https://github.com/prosopo/provider| The repo containing the Provider software | 
+| 3.  | External Contract |https://github.com/prosopo/dapp-example| An external example contract which demonstrates how to call our contract | 
 
 **Additional Information**
 
